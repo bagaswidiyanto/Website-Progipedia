@@ -1,0 +1,118 @@
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (-webkit-min-device-pixel-ratio: 1) {
+    .tracking_awb_detail .section-heading .mx-auto {
+        width: 100%;
+    }
+}
+
+
+@media only screen and (min-width: 992px) and (max-width: 1140px)  {
+    .header .logo img {
+        max-height: 35px;
+    }
+
+    .navbar a, .navbar a:focus {
+     
+        padding: 30px 10px;
+        font-size: 13px;
+      }
+}
+
+@media only screen and (min-width: 1280px) {
+    .footer .w-box-75 {
+     width: 75%;
+    }
+    .footer .w-box-75 .address{
+     width: 58%;
+    }
+ }
+
+ @media (min-width: 992px) {
+    .sticky-top.navbar-light {
+        padding-right: 5rem !important;
+        padding-left: 5rem !important;
+    }
+}
+
+@media (max-width: 991px) {
+    .search {
+        top: 2.8rem;
+      }
+
+    .tracking .tab-content .tab-pane .bg-row {
+        border-radius: 30px !important;
+    }
+}
+ 
+ 
+ @media only screen and (max-width: 767px) {
+     .hero-header .swiper-pagination.swiper-pagination-bullets {
+         bottom: 5px;
+     }
+ 
+     .hero-header .swiper-pagination-bullet {
+         width: 15px;
+         height: 2px;
+     }
+ 
+     .lms .img-phone {
+         width: 30%;
+     }
+     .lms .img-lms {
+         width: 60%;
+     }
+ 
+     .search ul li a {
+         font-size: 10pt;
+     }
+ 
+     .single-blog .share-sosmed .box-share {
+         font-size: 14px;
+     }
+ 
+     .single-blog .share-sosmed .box-share .fa {
+         font-size: 1.2rem;
+    }
+
+    .tracking-table .table {
+        font-size: 12px;
+    }
+
+    .tracking-table .table tr td button {
+        font-size: 12px;
+    }
+
+    .modal-tracking .modal-body table {
+        font-size: 11px;
+    }
+
+
+    .tracking_awb table {
+        font-size: 12px;
+    }
+
+    .tracking_awb .btn {
+        font-size: 12px;
+    }
+
+    .tracking_awb_detail .section-heading table {
+        width: 100%;
+        font-size: 12px;
+    }
+
+    .tracking_awb_detail legend {
+        font-size: 18px;
+    }
+
+    .tracking_awb_detail h3 {
+        font-size: 18px;
+    }
+
+    .tracking_awb_detail .section-heading .mx-auto {
+        width: 100%;
+    }
+       
+ }
+ 
+
+
+ 

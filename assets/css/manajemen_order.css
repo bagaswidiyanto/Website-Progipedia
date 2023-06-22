@@ -1,0 +1,73 @@
+.platform .box-platform {
+    background: linear-gradient(93.58deg, #2056A0 5.16%, #0B356F 94.19%);
+    padding: 1.3rem;
+    border-radius: 10px;
+    height: 100%;
+}
+
+.platform .box-platform .icon {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #0D5DA2;
+    background: #fff;
+    border-radius: 40px;
+    transition: .3s;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 1rem;
+}
+
+
+.platform .box-platform h5 {
+    color: #fff;
+    margin-bottom: 10px;
+}
+.platform .box-platform p {
+    color: #fff;
+    font-size: 10pt;
+    line-height: 15px;
+}
+
+
+.paket .card-box {
+    background: #DAEBFFA1;
+    border-radius: 10px;
+}
+
+.paket .card-box .title {
+    padding-top: 3rem;
+    padding-bottom: 8rem;
+    position: relative;
+}
+
+.paket .card-box .title .price a {
+    transition: ease-in-out .5s;
+    border: 1px solid #929292;
+    border-radius: 10px;
+}
+
+.paket .card-box .title .price a:hover {
+    background: linear-gradient(93.58deg, #2056A0 5.16%, #0B356F 94.19%);
+    color: #fff;
+    border: none;
+}
+
+.paket .card-box .title .annualy {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 100%;
+}
+
+.paket .card-box .include {
+    border-top: 3px solid #afa7a7;
+}
+
+.paket .card-box .include ul {
+    list-style: circle;
+    padding-left: 1rem;
+}

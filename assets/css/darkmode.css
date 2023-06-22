@@ -1,0 +1,283 @@
+.darkmode h1,
+.darkmode h2,
+.darkmode h3,
+.darkmode h4,
+.darkmode h5,
+.darkmode h6,
+.darkmode p {
+    color: #fff;
+}
+
+.darkmode .verif-thks {
+    color: #FFB800;
+}
+
+
+.darkmode .contact-static ul li a {
+    background: rgb(34, 34, 34);
+}
+.darkmode .contact-static ul li a:hover {
+    background: rgb(35, 30, 49);
+}
+
+.darkmode .contact-static ul li a i {
+    color: #fff;
+}
+
+.darkmode .ui-autocomplete {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .ui-autocomplete li {
+    color: #fff;
+}
+
+.darkmode .ui-autocomplete li {
+    background: rgb(70, 70, 70)
+}
+
+.darkmode .navbar a,
+.darkmode .navbar a:focus {
+    color: #fff;
+}
+
+.darkmode .navbar .dropdown ul a:hover,
+.darkmode .navbar .dropdown ul .active:hover,
+.darkmode .navbar .dropdown ul li:hover>a {
+    color: #FFB800;
+}
+
+.darkmode .navbar .dropdown ul {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .navbar .dropdown ul li a:hover {
+    background: #393939;
+    border-radius: 20px;
+}
+
+.darkmode .navbar-mobile ul {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .mobile-nav-toggle {
+    color: #fff;
+}
+@media (min-width: 992px) {
+    .darkmode .header:hover {
+        background: rgb(34, 34, 34);
+    }
+
+    .darkmode .header.header-scrolled {
+        background: rgb(34, 34, 34);
+    }
+
+    .darkmode .header .navbar a.active {
+        color: #fff ;
+    }
+    .darkmode .header:hover .navbar a.active {
+        color: #FFB800 ;
+    }
+
+    .darkmode .header.header-scrolled .navbar a.active {
+        color: #FFB800 ;
+    }
+
+    .darkmode .navbar a:hover, .darkmode .navbar a.active:focus, .darkmode .navbar li:hover > a {
+        color: #FFB800;
+    }
+
+}
+
+@media (max-width: 991px) {
+    .darkmode .header.header-scrolled {
+        background: rgb(34, 34, 34);
+    }
+
+    .darkmode .header .navbar a.active {
+        color: #fff ;
+    }
+    .darkmode .header:hover .navbar a.active {
+        color: #FFB800 ;
+    }
+
+    .darkmode .header.header-scrolled .navbar a.active {
+        color: #FFB800 ;
+    }
+
+    .darkmode .navbar a:hover, .darkmode .navbar a.active:focus, .darkmode .navbar li:hover > a {
+        color: #FFB800;
+    }
+
+}
+
+
+.darkmode .hero-header .title h5 {
+    color: #FFB800;
+}
+
+
+.darkmode .login .login-btn {
+    color: #FFB800;
+}
+
+.darkmode .tracking-home form input {
+    background: transparent;
+    color: #fff;
+}
+
+.darkmode .tracking-home form input[type="text"]:focus {
+    outline: none;
+}
+
+
+.darkmode .kebutuhan-home .box-kebutuhan {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .kebutuhan-home .box-kebutuhan:hover {
+    background: linear-gradient(224.09deg, #97B7DD 0%, rgba(151, 183, 221, 0) 53.01%);
+}
+
+.darkmode .kebutuhan-home .box-kebutuhan .title h5 {
+    color: #fff;
+}
+
+.darkmode .kebutuhan-home .box-kebutuhan .desk p {
+    color: #fff;
+}
+
+
+.darkmode .paket-home .fitur h2 {
+    color: #FFB800;
+}
+
+.darkmode .paket-home .fitur ul li {
+    color: #FFB800;
+}
+
+
+.darkmode .footer ul li a {
+    color: #fff;
+}
+
+.darkmode .footer ul li a:hover {
+    color: #FFB800;
+}
+
+.darkmode .footer .address span {
+    color: #fff !important;
+}
+
+.darkmode .client-home img {
+    filter: grayscale(100%);
+    transition: .5s ease-in;
+}
+
+.darkmode .client-home img:hover {
+    filter: none;
+}
+
+.darkmode .client img {
+    filter: grayscale(100%);
+    transition: .5s ease-in;
+}
+
+
+.darkmode .client img:hover {
+    filter: none;
+}
+
+
+
+
+
+
+
+.darkmode .search {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .search form i {
+    color: #fff;
+}
+
+
+.darkmode .single-blog .share-sosmed .box-share i {
+    color: #fff;
+}
+
+.darkmode .single-blog .related-post .title ul a {
+    color: #fff;
+}
+
+.darkmode .paket .card-box {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .paket .card-box .title .price a {
+    color: #FFB800;
+}
+
+.darkmode .paket .card-box .title .price a:hover {
+    color: #fff;
+}
+
+
+.darkmode .tracking form input {
+    background: transparent;
+    color: #fff;
+}
+
+.darkmode .tracking form input[type="text"]:focus {
+    outline: none;
+}
+
+
+.darkmode .header-tracking {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .tracking .tab-content .tab-pane .bg-row {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .select2-results {
+    color: #000;
+}
+
+.darkmode .modal-content {
+    background: rgb(34, 34, 34);
+}
+
+.darkmode .btn-close {
+    filter: brightness(0) invert(1);
+}
+
+
+.darkmode .modalLogin form input {
+    background: transparent;
+    color: #fff;
+}
+
+.darkmode .modalLogin form .submit {
+    background: linear-gradient(93.58deg, #2056A0 5.16%, #0B356F 94.19%);
+}
+
+
+.darkmode .modalLogin form input[type="text"]:focus {
+    outline: none;
+}
+
+.darkmode .modalDaftar form input {
+    background: transparent;
+    color: #fff;
+}
+
+.darkmode .modalDaftar form .submit {
+    background: linear-gradient(93.58deg, #2056A0 5.16%, #0B356F 94.19%);
+}
+
+.darkmode .modalDaftar form input[type="text"]:focus {
+    outline: none;
+}

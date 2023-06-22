@@ -1,0 +1,131 @@
+.search {
+    position: sticky;
+    top: 3.9rem;
+    background: #92B4DC;
+    z-index: 40;
+    opacity: 0.96;
+}
+
+.search ul li a{
+    padding: 0.2rem 1rem;
+    color: #000;
+    transition: .5s;
+    cursor: pointer;
+}
+
+.search ul li a:hover{
+    background: #02549F;
+    border-radius: 20px;
+    color: #fff;
+}
+
+
+.blog .img {
+    height: 240px;
+    overflow: hidden;
+}
+
+
+.blog .title span {
+    font-size: 0.8rem;
+    color: #1E436E;
+}
+
+.blog .title .time p {
+    color: rgb(115, 115, 115);
+}
+
+.blog .blog-pagination{
+    margin-top:80px
+}
+
+.blog .blog-pagination a{
+    font-size:14px;
+    font-weight: 700;
+    position:relative;
+    display:block;
+    padding:0;
+    text-align:center;
+    margin-left: 0px;
+    line-height:35px;
+    width:35px;
+    height:35px;
+    border-radius: 40px !important;
+    color:#222222;
+    border:none;
+    margin-right: 8px;
+    background-color: #D9D9D9;
+}
+
+.blog .blog-pagination a i,.blog .blog-pagination a span{
+    font-size:13px
+}
+
+.blog .blog-pagination a:hover{
+    background-color: #1E436E;
+    color: #fff;
+}
+
+.blog .blog-pagination .page-item.active a{
+    background-color:#1E436E;
+    color:#fff
+
+}
+
+.blog .blog-pagination .page-item:last-child a{
+    margin-right:0
+}
+
+.side-blog {
+    position: sticky;
+    top: 11rem;
+}
+
+.side-blog .artikel-terkenal p {
+    font-weight: 700;
+}
+
+
+.side-blog .artikel-terkenal .time span {
+    font-size: 0.8rem;
+    color: rgb(115, 115, 115);
+}
+
+
+.single-blog .entry-time p {
+    font-size: 0.8rem;
+    color: rgb(115, 115, 115);
+}
+
+
+.single-blog .share-sosmed .box-share {
+    border-radius: 20px;
+    background: #22222238;
+    padding: 10px 15px;
+    color: #000;
+    margin-right: 10px;
+    display: flex;
+    width: max-content;
+}
+
+.single-blog .share-sosmed .box-share:hover {
+    background: #22222261;
+
+}
+
+.single-blog .share-sosmed .box-share i {
+    font-size: 1.5rem;
+}
+
+.single-blog .related-post .title ul {
+    list-style: disc;
+    padding-left: 2rem;
+}
+
+.single-blog .related-post .title ul li {
+    margin-bottom: 0.4rem;
+}
+
+.single-blog .related-post .title ul a {
+    color: #000;
+}
